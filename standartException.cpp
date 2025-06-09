@@ -5,3 +5,7 @@
 //untuk obyek array yang akan kita gunakan
 using namespace std;
 
+int main()
+{
+    cout << "Awal program " << endl;
+    
